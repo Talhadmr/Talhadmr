@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[Kaggle](<a href="https://commons.wikimedia.org/wiki/File:Kaggle_logo.png">Databuff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0"></a>) ] (https://www.kaggle.com/talhademirr)
+[Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png) ] (https://www.kaggle.com/talhademirr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talhadmr/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@demirtalha093) 
 
 # 💻 Tech Stack:
