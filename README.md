@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on data science <br>🌱 I’m currently learning  MAchine learning models, SQL, OOP
+🔭 I’m currently working on data science <br>🌱 I’m currently learning  Machine learning models, SQL, OOP
 
 
 ## 🌐 Socials:
+[Kaggle](<a href="https://commons.wikimedia.org/wiki/File:Kaggle_logo.png">Databuff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>) ] (https://www.kaggle.com/talhademirr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talhadmr/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@demirtalha093) 
 
 # 💻 Tech Stack:
