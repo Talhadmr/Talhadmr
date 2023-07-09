@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on data science <br>🌱 I’m currently learning  Machine learning models, SQL, OOP
+🔭 I’m currently working on data science. <br>🌱 I’m currently learning  Machine learning models, SQL, OOP.
 
 
 ## 🌐 Socials:
