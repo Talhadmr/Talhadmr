@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭Passionately immersed in the realm of machine learning. <br>🌱 Feature engineering runs in his veins.". <br> Engaged in a relentless battle against memory usage and leaks. <br> A GitHub monster attempting to devour all achievements in its path. <br> Though not fond of Linux, cannot go to sleep without spending three hours using it daily. <br> SQL, a newfound and dearly cherished companion. <br> He never shies away from embracing the blessings offered by object-oriented programming.
+🔭Passionately immersed in the realm of machine learning. <br>🌱 Feature engineering runs in his veins. <br>💥  Engaged in a relentless battle against memory usage and leaks. <br> 👾 A GitHub monster attempting to devour all achievements in its path. <br>💫 Though not fond of Linux, cannot go to sleep without spending three hours using it daily. <br>❤️‍🔥 SQL, a newfound and dearly cherished companion. <br>💦 Never shies away from embracing the blessings offered by object-oriented programming.
 
 
 ## 🌐 Socials:
