@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭Passionately immersed in the realm of machine learning. <br>🌱 Feature engineering runs in his veins. <br>💥  Engaged in a relentless battle against memory usage and leaks. <br> 👾 A GitHub monster attempting to devour all achievements in its path. <br>💫 Though not fond of Linux, cannot go to sleep without spending three hours using it daily. <br>❤️‍🔥 SQL, a newfound and dearly cherished companion. <br>💦 Never shies away from embracing the blessings offered by object-oriented programming.
-
 
 ## 🌐 Socials:
 <a href="https://kaggle.com/https://www.kaggle.com/talhademirr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/talhademirr" height="30" width="40" /></a>
