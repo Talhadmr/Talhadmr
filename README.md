@@ -2,7 +2,6 @@
 
 
 ## 🌐 Socials:
-<a href="https://kaggle.com/https://www.kaggle.com/talhademirr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/talhademirr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/talhadmr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talhadmr/" height="30" width="40" /></a>
 <a href="https://medium.com/@talhadmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@demirtalha093" height="30" width="40" /></a>
 
